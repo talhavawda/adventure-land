@@ -9,7 +9,7 @@
 <br>
 
 ## Execution Instructions
-- Download the AdventureLand folder
-- Run the AdventureLand.exe file
+- Download the AdventureLand folder to your local machine
+- Run the AdventureLand.exe file thats in the AdventureLand folder
 - The security of MS Access AdventureLand.mdb database has been removed so that you may access login details of Admin and Employee staff to test the application. 
 - Since a ticket has only same-day validity, the Visitor login window only shows the ticket numbers that were issued on the current day.  
