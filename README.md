@@ -1,6 +1,6 @@
 # Adventure Land
 
-## A Ticket Processing and Management System for Adventure Land, a fictional Theme Park.
+## A Ticket Processing and Management System for Adventure Land, a fictional Amusement Park.
 
 - This software project was developed for submission towards the Grade 12 Information Technology Practical Assessment Task (PAT) assessment in 2017. 
 - The entire Software Development Life Cycle (SDLC) was applied to this project. 
